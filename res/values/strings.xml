@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Karaoke</string>
+    <string name="action_settings">Setting</string>
+    <string name="search">Search</string>
+</resources>
